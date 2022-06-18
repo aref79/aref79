@@ -18,6 +18,6 @@ Developer
                     
 ### Socials
 <p align="left">
-  <a href="  https://www.linkedin.com/in/aref-pourhashemi-29bb901a5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/aref-pourhashemi-29bb901a5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32"></a>
 
 
