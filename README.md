@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**aref79/aref79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aref pourhashemi
+===============================
 
-Here are some ideas to get you started:
+Developer
+-----------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning Al
+- 📫 How to reach me: aref.pourhashemi@hotmail.com
+
+
+                  
+### Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,php,kotlin,laravel,html,css" />
+</p>
+                    
+### Socials
+<p align="left">
+  <a href="  https://www.linkedin.com/in/aref-pourhashemi-29bb901a5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a>
+
+
