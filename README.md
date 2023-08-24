@@ -13,7 +13,7 @@ Developer
                   
 ### Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,php,kotlin,laravel,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,php,vue,laravel,html,css" />
 </p>
                     
 ### Socials
