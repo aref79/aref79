@@ -7,7 +7,7 @@ Developer
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Al
-- 📫 How to reach me: aref.pourhashemi@hotmail.com
+- 📫 How to reach me: pourhashemi.aref@gmail.com
 
 
                   
